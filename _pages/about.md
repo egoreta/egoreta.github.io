@@ -13,34 +13,3 @@ I am a student at University of Michigan - Ann Arbor in the College of Engineeri
 Titles
 ======
 Description
-
-Description
-
-Title
-======
-1. List
-1. List
-1. List
-
-Subtitle
-------
-Description
-
-Subtitle
-------
-Description
-
-**Sub...subtitle**
-
-Description
-
-Subtitle
-------
-Description
-
-Description of Photo
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-Subtitle
-------
-Description

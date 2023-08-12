@@ -11,4 +11,4 @@ redirect_from:
 
 Education
 ======
-* B.S.E. in Computer Engineering, University of Michigan - Ann Arbor, 2026
+* BSE in Computer Engineering, University of Michigan - Ann Arbor, 2026

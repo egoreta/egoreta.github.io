@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eli Goreta / Personal Website"
+title                    : "Eli Goreta"
 title_separator          : "-"
 name                     : &name "Eli Goreta"
-description              : &description "personal description"
+description              : &description "My website!"
 url                      : https://egoreta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "egoreta/egoreta.github.io"

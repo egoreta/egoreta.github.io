@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BSE in Computer Engineering, University of Michigan - Ann Arbor, 2026
+Resume: http://egoreta.github.io/files/Resume_Eli_Goreta_.pdf

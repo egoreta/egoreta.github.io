@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am a student at University of Michigan - Ann Arbor in the College of Engineering! I am studying Computer Engineering with a minor in Mathematics. I love all things robotics, embedded software, and control systems!
-
-More to come!!

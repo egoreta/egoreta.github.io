@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](http://egoreta.github.io/files/Resume_Eli_Goreta_.pdf)
+[Resume](http://egoreta.github.io/files/Resume_Eli_Goreta_F23.pdf)

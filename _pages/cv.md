@@ -11,4 +11,4 @@ redirect_from:
 
 [Resume](http://egoreta.github.io/files/Goreta_Eli_Resume.pdf)
 
-xfun::embed_file("egoreta.github.io/files/Goreta_Eli_Resume.pdf")
+<!-- xfun::embed_file("egoreta.github.io/files/Goreta_Eli_Resume.pdf") -->

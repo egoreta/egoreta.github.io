@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at University of Michigan - Ann Arbor in the College of Engineering! I am studying Computer Engineering with a minor in Mathematics. I love all things robotics, embedded systems, and software engineering!
+I am a student at the University of Michigan - Ann Arbor: College of Engineering! I am studying Computer Engineering with a minor in Mathematics. I love all things robotics, embedded systems, and software engineering!

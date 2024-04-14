@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](http://egoreta.github.io/files/ResEliGoreta.pdf)
+[Resume](http://egoreta.github.io/files/ResEliGoretaApp.pdf)
 
 <!-- xfun::embed_file("egoreta.github.io/files/Goreta_Eli_Resume.pdf") -->
